@@ -1,0 +1,131 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/sony_ten_1.jpg" group-title="Sports",Sony Ten 1
+http://tv.pmcon.net/hls/stream40.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/sony_ten_2.jpg" group-title="Sports",Sony Ten 2
+http://tv.pmcon.net/hls/stream39.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/Sony-six-hd.png" group-title="Sports",Sony Six
+http://tv.pmcon.net/hls/stream10.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/Star_Sports_Select_1_HD.jpg" group-title="Sports",Star Sports Select 1 HD
+http://tv.pmcon.net/hls/stream12.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/stersports1hd.jpg" group-title="Sports",Star Sports 1 HD
+http://tv.pmcon.net/hls/stream15.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/ster-sport-2hd.png" group-title="Sports",Star Sports 2 HD
+http://tv.pmcon.net/hls/stream16.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/PTV_Sports.png" group-title="Sports",Ptv Sports
+http://tv.pmcon.net/hls/stream11.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/ten_sports.jpg" group-title="Sports",Ten Cricket
+http://tv.pmcon.net/hls/stream34.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/tsports.jpg" group-title="Sports",T Sports
+http://172.16.29.28/hls/sports1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/tsports.jpg" group-title="Sports",T Sports icc
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/nick.jpg" group-title="Cartoon",Nick
+http://tv.pmcon.net/hls/stream23.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/43/2e/7f/432e7f2a6a085b081c102893abfcd7ee.jpg" group-title="Cartoon",Pogo
+http://tv.pmcon.net/hls/stream5.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/sonyyay.jpg" group-title="Cartoon",Sony YAY
+http://tv.pmcon.net/hls/stream32.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/sonypixhd.jpg" group-title="English",Sony Pix
+http://tv.pmcon.net/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/axn.jpg" group-title="English",AXW
+http://tv.pmcon.net/hls/stream2.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/starmovies.jpg" group-title="English",Star Movies
+http://tv.pmcon.net/hls/stream3.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/animalplanent.jpg" group-title="English",Animal Planet
+http://tv.pmcon.net/hls/stream6.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/dis.png" group-title="English",Discovery HD
+http://tv.pmcon.net/hls/stream9.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/Nat_Geo_HD.png" group-title="English",National Geographic HD
+http://tv.pmcon.net/hls/stream13.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/travelxphd.jpg" group-title="English",Travel XP
+http://tv.pmcon.net/hls/stream37.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/aljazeera.jpg" group-title="English",Al Jazeera
+http://tv.pmcon.net/hls/stream35.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/bbcworld.jpg" group-title="English",BBC World Earth
+http://tv.pmcon.net/hls/stream36.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/qxm.png" group-title="Hindi",9XM
+http://tv.pmcon.net/hls/stream4.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/utvaction.jpg" group-title="Hindi",UTV Action
+http://tv.pmcon.net/hls/stream7.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/zoom.jpg" group-title="Hindi",Zoom
+http://tv.pmcon.net/hls/stream8.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi",And Picture HD
+http://tv.pmcon.net/hls/stream14.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/stargold.jpg" group-title="Hindi",Star Gold HD
+http://tv.pmcon.net/hls/stream19.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi",Zee Cinema
+http://tv.pmcon.net/hls/stream25.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/starplus.jpg" group-title="Hindi",Star Plus
+http://tv.pmcon.net/hls/stream38.m3u8
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/sony.png" group-title="Hindi",Sony Entertainment
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/enter10bangla.jpg" group-title="Indian Bangla",Enterr 10 Bangla
+http://tv.pmcon.net/hls/stream26.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/jalsha_movies.jpg" group-title="Indian Bangla",Jalsha Movies HD
+http://tv.pmcon.net/hls/stream27.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="Indian Bangla",Color Bangla HD
+http://tv.pmcon.net/hls/stream28.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="Indian Bangla",Zee Bangla HD
+http://tv.pmcon.net/hls/stream30.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://tv.pmcon.net/hls/stream31.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/somoytv.jpg" group-title="Bangla",Somoy TV
+http://tv.pmcon.net/hls/stream21.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/channel24.jpg" group-title="Bangla",Channel 24
+http://tv.pmcon.net/hls/stream22.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/news24.png" group-title="Bangla",News 24
+http://tv.pmcon.net/hls/stream50.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/atnbangla.jpg" group-title="Bangla",ATN Bangla
+http://tv.pmcon.net/hls/stream17.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/channeli.jpg" group-title="Bangla",Channel i
+http://tv.pmcon.net/hls/stream18.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/maasranga.jpg" group-title="Bangla",Maasranga TV
+http://tv.pmcon.net/hls/stream20.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagarik TV
+http://tv.pmcon.net/hls/stream24.m3u8
+
+
