@@ -26,10 +26,10 @@ http://tv.pmcon.net/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/ten_sports.jpg" group-title="Sports",Ten Cricket
 http://tv.pmcon.net/hls/stream34.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/tsports.jpg" group-title="Sports",T Sports
-http://172.16.29.28/hls/sports1.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/tsports.jpg" group-title="Sports",T Sports HD
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/tsports.jpg" group-title="Sports",T Sports
 http://103.106.243.163:8989/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/nick.jpg" group-title="Cartoon",Nick
