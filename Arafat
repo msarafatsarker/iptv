@@ -30,7 +30,7 @@ http://tv.pmcon.net/hls/stream34.m3u8
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/tsports.jpg" group-title="Sports",T Sports
-http://103.106.243.163:8989/tsports/index.m3u8
+http://starprimoum.ddns.net:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.pmcon.net/img/nick.jpg" group-title="Cartoon",Nick
 http://tv.pmcon.net/hls/stream23.m3u8
